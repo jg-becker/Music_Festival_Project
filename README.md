@@ -2,7 +2,7 @@
 
 ## Planning
 
-The plan of this project was to aggregate music festival data for music festivals happening around the world in 2020 / 2021. The goal of aggregating this data was to create a structured dataset that could be used for analyzing common metrics about music festivals (location, time of year) in order to see if there were any trends regarding where and when music festivals took place. This project initially started at the beginning of the COVID-19 epidemic, which caused a mass cancellation/postpone of the majority of music festivals in the world. This factor altered the scope of the project, which included adding a music festival status and COVID-19 case component to the dataset. 
+The plan of this project was to aggregate music festival data for music festivals happening around the world in 2020 / 2021. The goal of aggregating this data was to create a structured dataset that could be used for analyzing common metrics about music festivals (location, time of year) in order to see if there were any trends regarding where and when music festivals took place. This project initially started at the beginning of the COVID-19 epidemic, which caused a mass cancellation/postponment of the majority of music festivals in the world. This factor altered the scope of the project, which included adding a music festival status and COVID-19 case component to the dataset. 
 
 ## Webscrapping 
 
